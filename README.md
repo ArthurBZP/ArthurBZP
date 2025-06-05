@@ -3,4 +3,5 @@
 - 🔭 Estudando python para aprender lógica de programação e ter noção de como são as linguagens
 - 📖 Cursando Sistemas de Informação na FHO em Araras (Primeiro ano)
 - 🌱 Não trabalho, portanto pretendo entrar em um estágio assim que possível
+- 👾 www.linkedin.com/in/arthur-biscaro-65a1a6357
 
