@@ -9,7 +9,7 @@
 Me chamo Arthur Biscaro, tenho 20 anos e moro em Rio Claro - SP. Atualmente curso Sistemas de Informação na FHO e curso Inteligência Artificial na FATEC. Sou apaixonado por tecnologia, curioso sobre Hardware 
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="oreki houtarou GIF.gif">
 
 <h3 align="left">Connect with me!</h3>
 
