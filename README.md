@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Arthur Biscaro, tenho 2o anos e moro em Rio Claro - SP. Atualmente curso Sistemas de Informação na FHO e curso Inteligência Artificial na FATEC. Sou apaixonado por tecnologia, curioso sobre Hardware 
+Me chamo Arthur Biscaro, tenho 20 anos e moro em Rio Claro - SP. Atualmente curso Sistemas de Informação na FHO e curso Inteligência Artificial na FATEC. Sou apaixonado por tecnologia, curioso sobre Hardware 
 #
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
@@ -112,7 +112,7 @@ Me chamo Arthur Biscaro, tenho 2o anos e moro em Rio Claro - SP. Atualmente curs
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBZP/ArthurBZP/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBZP/ArthurBZP/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurBZP/ArthurBZP/output/github-contribution-grid-snake.svg">
 </picture>
