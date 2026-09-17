@@ -114,5 +114,5 @@ Me chamo Arthur Biscaro, tenho 20 anos e moro em Rio Claro - SP. Atualmente curs
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBZP/ArthurBZP/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBZP/ArthurBZP/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurBZP/ArthurBZP/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurBZP/ArthurBZP/output/github-contribution-grid-snake2.svg">
 </picture>
