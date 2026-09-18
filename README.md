@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Arthur Biscaro, tenho 20 anos e moro em Rio Claro - SP. Atualmente curso Sistemas de Informação na FHO e curso Inteligência Artificial na FATEC. Sou apaixonado por tecnologia, curioso sobre Hardware 
+Me chamo Arthur Biscaro, tenho 20 anos e atualmente curso Sistemas de Informação na FHO e curso Inteligência Artificial na FATEC. Sou apaixonado por tecnologia, curioso sobre Hardware 
 #
 
 <img align="right" alt="" height="190px" src="oreki houtarou GIF.gif">
